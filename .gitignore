@@ -1,0 +1,34 @@
+# Build results (Visual Studio y Rider)
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+*.iml
+_ReSharper.Caches/
+_ReSharper/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Sistema operativo (Windows, Mac y Linux)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Archivos de log comunes
+*.log
