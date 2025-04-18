@@ -1,4 +1,4 @@
-# Build results (Visual Studio y Rider)
+# Build results (Visual Studio and Rider)
 bin/
 obj/
 
@@ -20,7 +20,7 @@ packages/
 *.nupkg
 *.snupkg
 
-# Sistema operativo (Windows, Mac y Linux)
+# Operating system(Windows, Mac and Linux)
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -30,5 +30,5 @@ Desktop.ini
 Icon
 ._*
 
-# Archivos de log comunes
+# Common log files
 *.log
